@@ -1,0 +1,203 @@
+
+<link rel="stylesheet" href="site.css">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+<link rel="icon" href="imagens/Pictures/chapeu do luffy.jpg">
+</head>
+<body>
+<header>
+
+   
+<div class="logo">
+    <img src="">
+</div>
+<input type="checkbox" id="nav_check" hidden>
+<nav>
+    </div>
+    <ul>
+        <li>
+            <a href="pag.inicial.html">Home</a>
+        </li>
+        <li>
+            <a href="Gabi.html">Gabi</a>
+        </li>
+        <li>
+            <a href="Elo.html">helo</a>
+        </li>    
+        <li>
+            <a href="Henry.html">Henry</a>
+        </li>
+        <li>
+            <a href="Higor.html" class="active">Higor</a>
+        </li>       
+     </ul>
+</nav>
+<label for="nav_check" class="hamburger">
+    <div></div>
+    <div></div>
+    <div></div>
+</label> 
+
+<h1> Higor Silva Nogueira</h1>
+<h3>por Heloisa F.Caldas</h3>
+</header>
+<section>
+<h2>Sobre o Higor e eu: </h2>
+<p> Ele é uma das pessoas mais importantes da minha vida, ele é meu irmão de coração, nos conhecemos a quase 3 anos e um tem aguentado o outro, a gente enche muito o saco um do outro e eu acho isso muito incivel e engraçado. Nós começamos a fazer atletismo juntos a um ano e alguns meses, damos nosso melhor nesse meio tempo, com muitos PB'S (personal best/melhor marca na prova) e medalhas, fazemos quase as mesmas provas, ele faz 400 metros e 110 metros com barreias e eu faço 400 metros rasos e 200 metros rasos, eu tenho muito orgulho dele por que as duas provas são difíceis, mais se loco a passagem dele melhorou demais em pouco tempo, sendo fruto de todo esforço dele . Meu irmão é uma grande inspiração para mim, sempre foi, ele é uma pessoa incrivel demais, sei que ele vai bater muitos PB'S e eu vou estar sempre torcendo por ele, assim como ele torce por mim, quero continuar estando ao lado dele o tempo que der e acompanhar seu crescimento, por que eu sei que para ele o céu é o limite.</p>
+</section>
+<footer>
+    <h2> Fotos </h2>
+</footer>
+<div id="carouselExampleCaptions" class="carousel slide">
+    <div class="carousel-indicators">
+      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+      <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    </div>
+    <div class="carousel-inner" class="div">
+      <div class="carousel-item active">
+       <img src="imagens/Pictures/foto do Higor comp.jfif" alt="">
+        <div class="carousel-caption d-none d-md-block">
+          <h5 class="h5"> Higor competindo</h5>
+          <p class="p"> 400 metros com barreiras.</p>
+        </div>
+      </div>
+      <div class="carousel-item" class="div">
+        <img src="imagens/Pictures/eu e higor no bus.jfif" alt="">
+        <div class="carousel-caption d-none d-md-block">
+          <h5 class="h5"> Eu e o Higor indo para o treino</h5>
+          <p class="p"> Essa foto ficou otima, mesmo ele não gostando.</p>
+        </div>
+      </div>
+      <div class="carousel-item" class="div">
+       <img src="imagens/Pictures/hi he 2.jfif" alt="1000">
+        <div class="carousel-caption d-none d-md-block">
+          <h5 class="h5">uma corridinha até a prefeitura</h5>
+          <p class="p"> morremos mais passamos bem.</p>
+        </div>
+      </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+    <section>
+        <h2> Mais um pouco sobre ele </h2>
+        <p> O Higor nesceu dia 12 de agosto de 2008, sendo 8 dias mais velho que eu, quandos nossos pais se conhceram, minha mãe disse que era para eu namorar com ele, eu nunca entendi isso mais ok, nos nem sempre fomos proximos, acredito que so nos aproximamos tanto por causa do atletismo, depois disso a gente não se largava mais e ainda somos proximos, mais como crescemos bastante, nos mudamos muito, o físico, a mentalidade e personaliade, quando vi ele pela primera vez achei ele muito bonzinho, por isso algumas pessoas abusavam da sua generosidade, eu me irritava muito com isso por que eram os supostos "amigos" dele, mais ainda bem que ele mudou e começou a perceber mais as coisas.</p>
+        </section>
+        <section>
+            <p>No começo da nossa amizade a gente so falava de atletimos e coisas relacionadas ao treino, muitas pessoas se afastaram da gente por causa disso, nem um de nos se importou muito com isso, por que quem é de verdade não se incomoda quando a gente fala do que gosta. Eu encorajei ele a comoçar a assistir animes pra ter mais sobre o que converar com ele, ele não entendi muito do que eu falava mais sempre me ouvia, eu gosto muito dele por isso e outras coisas, ele sempre me encoraja, me da coselhos e me ajuda em tudo que eu preciso e vice-versa, ele sem dúvidas e a pessoal mais incrivel que eu conheço. </p>
+            </section>
+            <div id="carouselExampleFade" class="carousel slide carousel-fade">
+                <div class="carousel-inner">
+                  <div class="carousel-item active">
+                    <img src="imagens/Pictures/higor p1.jfif" class="d-block w-100" alt="...">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="imagens/Pictures/hi p1.jfif" class="d-block w-100" alt="...">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="imagens/Pictures/fot sala.jfif" class="d-block w-100" alt="...">
+                  </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Next</span>
+                </button>
+              </div>
+</body>
+</html>
+
+<div class="logo">
+    <img src="">
+</div>
+<input type="checkbox" id="nav_check" hidden>
+<nav>
+    </div>
+    <ul>
+        <li>
+            <a href="pag.inicial.html">Home</a>
+        </li>
+        <li>
+            <a href="Gabi.html">Gabi</a>
+        </li>
+        <li>
+            <a href="Elo.html">helo</a>
+        </li>    
+        <li>
+            <a href="Henry.html">Henry</a>
+        </li>
+        <li>
+            <a href="Higor.html" class="active">Higor</a>
+        </li>       
+     </ul>
+</nav>
+<label for="nav_check" class="hamburger">
+    <div></div>
+    <div></div>
+    <div></div>
+</label>
+</header>
+</body>
+</html>
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(0, 68, 255, 0.363);
+    }
+    
+    header {
+    background-color:  rgba(0, 68, 255, 0.363);
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+    }
+    
+    section {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    }
+    
+    footer {
+    background-color:  rgb(255, 255, 255);
+    color: rgba(0, 68, 255, 0.363);
+    text-align: center;
+    padding: 1em 0;
+    }
+.h1{
+    text-align: center;
+    color:rgba(0, 68, 255, 0.363);
+}
+.h2{
+    text-align: center;
+}
+.carousel-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px; 
+  }
+  .carousel-item img {
+    max-height:300%;
+    max-width: 100%;
+  }
+.p{
+    color:rgb(255, 255, 255);
+}
+.h5 {
+    color: rgba(255, 255, 255, 0.699);
+}
+.div{
+    background-color: rgba(0, 68, 255, 0.815);
+}
